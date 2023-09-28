@@ -1,0 +1,314 @@
+num,BTID,BLID,latTrap,lonTrap,elevTrap,locality,country,province,sample,collector,trapType,startYear,startMonth,startDay,florelation,Order,Genus,Species,Family,Sex,subgenus,Notes,endMonth,endDay,endYear
+1+A2:S35,BC22-1,BC22-1,49.323,-117.652,424,Millenium Park,"CA, BC",Castlegar,1,R. Rampton,Net,2022,5,11,Camassia quamash,Hymenoptera,Colletes,inaequalis,Colletidae,F,,,NA,NA,NA
+2,BC22-2,BC22-2,49.062,-117.613,420,Beaver Creek,"CA, BC",Trail,2,R. Rampton,Net,2022,5,11,Berberis aquifolium,Hymenoptera,Colletes,inaequalis,Colletidae,M,,,NA,NA,NA
+3,BC22-3,BC22-3,49.323,-117.652,424,Millenium Park,"CA, BC",Castlegar,3,R. Rampton,Net,2022,5,7,Camassia quamash,Hymenoptera,Colletes,inaequalis,Colletidae,M,,,NA,NA,NA
+4,BC22-4,BC22-4,49.323,-117.652,424,Millenium Park,"CA, BC",Castlegar,4,R. Rampton,Net,2022,5,3,Camassia quamash,Hymenoptera,Osmia,lignaria,Megachilidae,F,,,NA,NA,NA
+5,BC22-5,BC22-5,49.503,-117.346,788,Grohman Crk. FSR,"CA, BC",Nelson,5,R. Rampton,Net,2022,5,14,Berberis aquifolium,Diptera,Criorhina,tricolor,,F,,,NA,NA,NA
+6,BC22-6,BC22-6,49.503,-117.346,788,Grohman Crk. FSR,"CA, BC",Nelson,6,R. Rampton,Net,2022,5,14,NA,Coleoptera,Meloe,,,,,,NA,NA,NA
+7,BC22-7,BC22-7,49.503,-117.371,650,Marsden,"CA, BC",Nelson,7,R. Rampton,Net,2022,5,17,Camassia quamash,Hymenoptera,Andrena,transnigra,,F,Melandrena,,NA,NA,NA
+8,BC22-8,BC22-8,49.442,-117.547,480,Crescent Valley,"CA, BC",Crescent Valley,8,R. Rampton,Net,2022,5,17,Camassia quamash,Hymenoptera,Andrena,salicifloris,Andrenidae,F,Trachandrena,,NA,NA,NA
+9,BC22-9,BC22-9,49.442,-117.547,480,Crescent Valley,"CA, BC",Crescent Valley,8,R. Rampton,Net,2022,5,17,Taraxacum officinale,Hymenoptera,Andrena,,,,,,NA,NA,NA
+10,BC22-10,BC22-10,49.332,-117.618,520,Secret Meadow,"CA, BC",Castlegar,9,R. Rampton,Net,2022,5,21,Prunus virginiana,,Colletes,inaequalis,,M,,,NA,NA,NA
+11,BC22-11,BC22-11,49.332,-117.618,520,Secret Meadow,"CA, BC",Castlegar,9,R. Rampton,Net,2022,5,21,Prunus virginiana,,Andrena,amphibola?,,M,Trachandrena,,NA,NA,NA
+12,BC22-12,BC22-12,49.332,-117.618,520,Secret Meadow,"CA, BC",Castlegar,10,R. Rampton,Net,2022,5,21,Camassia quamash,,Eucera,,,M,,,NA,NA,NA
+13,BC22-13,BC22-13,49.332,-117.618,520,Secret Meadow,"CA, BC",Castlegar,10,R. Rampton,Net,2022,5,21,Camassia quamash,,Eucera,,,F,,,NA,NA,NA
+14,BC22-14,BC22-14,49.442,-117.547,480,Crescent Valley,"CA, BC",Crescent Valley,11,R. Rampton,Net,2022,5,21,Camassia quamash,,Andrena,macoupinensis ,,M,,"Possibly, netted with other bee",NA,NA,NA
+15,BC22-15,BC22-15,49.372,-117.662,740,Megan Meadow,"CA, BC",Pass Creek,12,R. Rampton,Net,2022,5,22,Camassia quamash,,Colletes,inaequalis,,F,,,NA,NA,NA
+16,BC22-16,BC22-16,49.372,-117.662,740,Megan Meadow,"CA, BC",Pass Creek,12,R. Rampton,Net,2022,5,22,Camassia quamash,,Anthophora,,,M,,,NA,NA,NA
+17,BC22-17,BC22-17,49.43,-117.662,1120,Goose Creek Meadows,"CA, BC",Pass Creek,13,R. Rampton,Net,2022,5,22,Lomatium ambiguum,,Andrena,pallidifovea,,M,Simandrena,"Possible floral associate, was in net with other bee",NA,NA,NA
+18,BC22-18,BC22-18,49.332,-117.618,520,Secret Meadow,"CA, BC",Castlegar,14,R. Rampton,Net,2022,5,24,Prunus virginiana,,Andrena,miserabilis,,M,,"This or A. cressonii, but I think this because of the grooves and not upturned front clypeal margin",NA,NA,NA
+19,BC22-19,BC22-19,49.332,-117.618,520,Secret Meadow,"CA, BC",Castlegar,15,R. Rampton,Net,2022,5,24,NA,,Osmia,melanosmia 2,,M,,,NA,NA,NA
+20,BC22-20,BC22-20,49.332,-117.618,520,Secret Meadow,"CA, BC",Castlegar,15,R. Rampton,Net,2022,5,24,Camassia quamash,,Halictus,,,F,Hemihalictus,"Possibly, was in net with other bee",NA,NA,NA
+21,BC22-21,BC22-21,49.342,-117.707,500,Grandiflorum,"CA, BC",Robson,16,R. Rampton,Net,2022,5,24,NA,,Bombus,occidentalis,,W,,,NA,NA,NA
+22,BC22-22,BC22-22,49.505,-117.354,660,Marsden Face,"CA, BC",Nelson,17,R. Rampton,Net,2022,5,26,Berberis aquifolium,,Andrena,transnigra,,F,Melandrena,,NA,NA,NA
+23,BC22-23,BC22-23,49.505,-117.354,660,Marsden Face,"CA, BC",Nelson,17,R. Rampton,Net,2022,5,26,NA,,Andrena,knuthiana,,F,Thysandrena,Resting near Prunus penyslvanica,NA,NA,NA
+24,BC22-24,BC22-24,49.505,-117.354,660,Marsden Face,"CA, BC",Nelson,18,R. Rampton,Net,2022,5,26,Prunus pensylvanica,,Andrena,nivalis,,M,Melandrena,,NA,NA,NA
+25,BC22-25,BC22-25,49.505,-117.354,660,Marsden Face,"CA, BC",Nelson,19,R. Rampton,Net,2022,5,26,Taraxacum officinale,,Osmia,melanosmia 1,,M,Melanosmia,,NA,NA,NA
+26,BC22-26,BC22-26,49.505,-117.354,660,Marsden Face,"CA, BC",Nelson,19,R. Rampton,Net,2022,5,26,Taraxacum officinale,,Ceratina,acantha,,M,,,NA,NA,NA
+27,BC22-27,BC22-27,49.505,-117.354,660,Marsden Face,"CA, BC",Nelson,20,R. Rampton,Net,2022,5,26,,,Andrena,nigrocaerulea,,M,Euandrena,,NA,NA,NA
+28,BC22-28,BC22-28,49.505,-117.354,660,Marsden Face,"CA, BC",Nelson,20,R. Rampton,Net,2022,5,26,,,Andrena,nigrocaerulea,,M,Euandrena,,NA,NA,NA
+29,BC22-29,BC22-29,49.505,-117.354,660,Marsden Face,"CA, BC",Nelson,21,R. Rampton,Net,2022,5,26,Viola arvensis,,Anthophora,,,M,,,NA,NA,NA
+30,BC22-30,BC22-30,49.503,-117.343,660,Marsden Slides,"CA, BC",Taghum,22,R. Rampton,Net,2022,5,29,Phacelia linearis,,Osmia,,Megachilidae,M,Helicosmia,coloradensis probably,NA,NA,NA
+31,BC22-31,BC22-31,49.503,-117.343,660,Marsden Slides,"CA, BC",Taghum,23,R. Rampton,Net,2022,5,29,Fragaria vesca,,Andrena,craetagi,,F,Plastandrena,,NA,NA,NA
+32,BC22-32,BC22-32,49.503,-117.346,720,Marsden Slides,"CA, BC",Taghum,24,R. Rampton,Net,2022,5,29,Taraxacum officinale,,Halictus,rubicundus,,F,,,NA,NA,NA
+33,BC22-33,BC22-33,49.502,-117.345,720,Grohman Crk. FSR,"CA, BC",Taghum,25,R. Rampton,Net,2022,5,29,Toxicoscordion venenosum,,Andrena,astragali,,M,,patrolling,NA,NA,NA
+34,BC22-34,BC22-34,49.503,-117.343,740,Marsden Slides,"CA, BC",Taghum,26,R. Rampton,Net,2022,5,29,Phacelia hastata,,Osmia,densa,,M,melanosmia,maybe,NA,NA,NA
+35,BC22-35,BC22-35,49.503,-117.343,740,Marsden Slides,"CA, BC",Taghum,26,R. Rampton,Net,2022,5,29,Phacelia hastata,,Osmia,kincaidii,,M,Melanosmia,,NA,NA,NA
+36,BC22-36,BC22-36,49.503,-117.343,740,Marsden Slides,"CA, BC",Taghum,26,R. Rampton,Net,2022,5,29,Phacelia hastata,,Osmia,melanosmia 1,,M,Melanosmia,,NA,NA,NA
+37,BC22-37,BC22-37,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,27,R. Rampton,Net,2022,5,29,Penstemon fruticosus,,Osmia,melanosmia 1,,M,Melanosmia,,NA,NA,NA
+38,BC22-38,BC22-38,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,27,R. Rampton,Net,2022,5,29,Penstemon fruticosus,,Osmia,,Megachilidae,M,Helicosmia,coloradensis probably,NA,NA,NA
+39,BC22-39,BC22-39,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,27,R. Rampton,Net,2022,5,29,Penstemon fruticosus,,Osmia,melanosmia 3,,M,Melanosmia,,NA,NA,NA
+40,BC22-40,BC22-40,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,27,R. Rampton,Net,2022,5,29,Penstemon fruticosus,,Osmia,kincaidii,,M,Melanosmia,,NA,NA,NA
+41,BC22-41,BC22-41,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,27,R. Rampton,Net,2022,5,29,Penstemon fruticosus,,,,,,,,NA,NA,NA
+42,BC22-42,BC22-42,49.517,-117.336,850,Grohman Crk. FSR,"CA, BC",Taghum,28,R. Rampton,Net,2022,5,29,Prunus pensylvanica,,Lasioglossum,,,F,Dialictus,,NA,NA,NA
+43,BC22-43,BC22-43,49.517,-117.336,850,Grohman Crk. FSR,"CA, BC",Taghum,28,R. Rampton,Net,2022,5,29,Prunus pensylvanica,,Osmia,,Megachilidae,M,Helicosmia,coloradensis probably,NA,NA,NA
+44,BC22-44,BC22-44,49.517,-117.336,850,Grohman Crk. FSR,"CA, BC",Taghum,28,R. Rampton,Net,2022,5,29,Prunus pensylvanica,,Osmia,densa,,M,Melanosmia,maybe,NA,NA,NA
+45,BC22-45,BC22-45,49.517,-117.336,850,Grohman Crk. FSR,"CA, BC",Taghum,28,R. Rampton,Net,2022,5,29,Prunus pensylvanica,,Bombus,insularis,,F,,,NA,NA,NA
+46,BC22-46,BC22-46,49.517,-117.336,850,Grohman Crk. FSR,"CA, BC",Taghum,28,R. Rampton,Net,2022,5,29,Prunus pensylvanica,,Lasioglossum,,,F,Dialictus,,NA,NA,NA
+47,BC22-47,BC22-47,49.318,-117.649,420,kpitlels,"CA, BC",Castlegar,29,R. Rampton,Net,2022,5,28,Camassia quamash,,Nomada,,,,,,NA,NA,NA
+48,BC22-48,BC22-48,49.318,-117.649,420,kpitlels,"CA, BC",Castlegar,29,R. Rampton,Net,2022,5,28,NA,,,,,,,,NA,NA,NA
+49,BC22-49,BC22-49,49.478,-117.416,700,cabin,"CA, BC",Blewett,30,R. Rampton,Net,2022,5,30, ,,Lasioglossum,,,,Hemihalictus,,NA,NA,NA
+50,BC22-50,BC22-50,49.478,-117.416,700,cabin,"CA, BC",Blewett,31,R. Rampton,Net,2022,5,30,Taraxacum officinale,,Osmia,melanosmia 3,,M,Melanosmia,juxta like but legs not brown,NA,NA,NA
+51,BC22-51,BC22-51,49.478,-117.416,700,cabin,"CA, BC",Blewett,31,R. Rampton,Net,2022,5,30,Taraxacum officinale,,Ceratina,acantha,,M,,,NA,NA,NA
+52,BC22-52,BC22-52,49.478,-117.416,700,cabin,"CA, BC",Blewett,31,R. Rampton,Net,2022,5,30,Taraxacum officinale,,Lasioglossum,,,,Hemihalictus,,NA,NA,NA
+53,BC22-53,BC22-53,49.319,-117.647,420,kpitlels,"CA, BC",Castlegar,32,R. Rampton,Net,2022,5,31,Prunus virginiana,,Colletes,inaequalis,,F,,,NA,NA,NA
+54,BC22-54,BC22-54,49.319,-117.647,420,kpitlels,"CA, BC",Castlegar,33,R. Rampton,Net,2022,5,31,Crataegus douglasii,,Halictus,rubicundus,,F,,,NA,NA,NA
+55,BC22-55,BC22-55,49.43,-117.663,1120,Goose Creek Meadow,"CA, BC",Pass Creek,34,R. Rampton,Net,2022,6,1,Lomatium ambiguum,,Andrena,salicifloris,,F,,,NA,NA,NA
+56,BC22-56,BC22-56,49.43,-117.663,1120,Goose Creek Meadow,"CA, BC",Pass Creek,34,R. Rampton,Net,2022,6,1,Lomatium ambiguum,,Andrena,nigrocaerulea,,M,,,NA,NA,NA
+57,BC22-57,BC22-57,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,35,R. Rampton,Net,2022,6,2,Drymocallis,,,,,,,,NA,NA,NA
+58,BC22-58,BC22-58,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,35,R. Rampton,Net,2022,6,2,Drymocallis,,Andrena,nigrocaerulea,,F,,,NA,NA,NA
+59,BC22-59,BC22-59,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,35,R. Rampton,Net,2022,6,2,Drymocallis,,Andrena,melanochroa,,F,,,NA,NA,NA
+60,BC22-60,BC22-60,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,36,R. Rampton,Net,2022,6,2,Lomatium ambiguum,,,,,,Hemihalictus,,NA,NA,NA
+61,BC22-61,BC22-61,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,36,R. Rampton,Net,2022,6,2,Lomatium ambiguum,,Andrena,striatifrons,,F,Trachandrena,,NA,NA,NA
+62,BC22-62,BC22-62,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,36,R. Rampton,Net,2022,6,2,Lomatium ambiguum,,Halictus,rubicundus,,F,,,NA,NA,NA
+63,BC22-63,BC22-63,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,36,R. Rampton,Net,2022,6,2,Lomatium ambiguum,,Andrena,angustitarsata,,F,,,NA,NA,NA
+64,BC22-64,BC22-64,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,36,R. Rampton,Net,2022,6,2,Lomatium ambiguum,,Andrena,wheeleri,,M,,,NA,NA,NA
+65,BC22-65,BC22-65,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,37,R. Rampton,Net,2022,6,2,NA,,Osmia,atriventris,Megachilidae,F,Melanosmia,,NA,NA,NA
+66,BC22-66,BC22-66,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,37,R. Rampton,Net,2022,6,2,NA,,Leaf hopper,,,,,,NA,NA,NA
+67,BC22-67,BC22-67,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,38,R. Rampton,Net,2022,6,6,Fragaria vesca,,Andrena,vicina,,M,,"not sure, barely got to melandrena",NA,NA,NA
+68,BC22-68,BC22-68,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Osmia,densa,Megachilidae,F,Melanosmia,,NA,NA,NA
+69,BC22-69,BC22-69,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Osmia,densa,Megachilidae,F,Melanosmia,,NA,NA,NA
+70,BC22-70,BC22-70,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Osmia,bruneri,Megachilidae,F,Melanosmia,,NA,NA,NA
+71,BC22-71,BC22-71,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Osmia,densa,Megachilidae,F,Melanosmia,,NA,NA,NA
+72,BC22-72,BC22-72,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Osmia,densa,Megachilidae,F,Melanosmia,,NA,NA,NA
+73,BC22-73,BC22-73,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Osmia,densa,Megachilidae,F,Melanosmia,,NA,NA,NA
+74,BC22-74,BC22-74,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Osmia,bruneri,Megachilidae,F,Melanosmia,,NA,NA,NA
+75,BC22-75,BC22-75,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Osmia,kincaidii,Megachilidae,M,Melanosmia,,NA,NA,NA
+76,BC22-76,BC22-76,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Osmia,bruneri,,M,,,NA,NA,NA
+77,BC22-77,BC22-77,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Osmia,melanosmia 3,,M,Melanosmia,,NA,NA,NA
+78,BC22-78,BC22-78,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Osmia,kincaidii,Megachilidae,F,Melanosmia,,NA,NA,NA
+79,BC22-79,BC22-79,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Lasioglossum,,,F,Hemihalictus,,NA,NA,NA
+80,BC22-80,BC22-80,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Sphecodes,,,F,,,NA,NA,NA
+81,BC22-81,BC22-81,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Halictus,rubicundus,,F,,,NA,NA,NA
+82,BC22-82,BC22-82,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Lasioglossum,,,F,Hemihalictus,,NA,NA,NA
+83,BC22-83,BC22-83,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,40,R. Rampton,Net,2022,6,6,Phacelia linearis,,Osmia,melanosmia 5,,M,Melanosmia,,NA,NA,NA
+84,BC22-84,BC22-84,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,40,R. Rampton,Net,2022,6,6,Phacelia linearis,,Osmia,densa,,M,Melanosmia,maybe,NA,NA,NA
+85,BC22-85,BC22-85,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,40,R. Rampton,Net,2022,6,6,Phacelia linearis,,Osmia,nanula,Megachilidae,F,Melanosmia,"proxima from last year, but thorax has mixed white/black hairs?",NA,NA,NA
+86,BC22-86,BC22-86,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,40,R. Rampton,Net,2022,6,6,Phacelia linearis,,,,,,,,NA,NA,NA
+87,BC22-87,BC22-87,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,40,R. Rampton,Net,2022,6,6,Phacelia linearis,,Osmia,kincaidii,,M,,,NA,NA,NA
+88,BC22-88,BC22-88,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,40,R. Rampton,Net,2022,6,6,Phacelia linearis,,Osmia,kincaidii,Megachilidae,F,Melanosmia,,NA,NA,NA
+89,BC22-89,BC22-89,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,40,R. Rampton,Net,2022,6,6,Phacelia linearis,,Nomada,,,M,,,NA,NA,NA
+90,BC22-90,BC22-90,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,40,R. Rampton,Net,2022,6,6,Phacelia linearis,,Eucera,cordleyi,,M,,,NA,NA,NA
+91,BC22-91,BC22-91,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,40,R. Rampton,Net,2022,6,6,Phacelia linearis,,Lasioglossum,,,F,Hemihalictus,,NA,NA,NA
+92,BC22-92,BC22-92,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,40,R. Rampton,Net,2022,6,6,Phacelia linearis,,Lasioglossum,,,F,Hemihalictus,,NA,NA,NA
+93,BC22-93,BC22-93,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,40,R. Rampton,Net,2022,6,6,Phacelia linearis,,Osmia,lignaria,Megachilidae,F,Osmia,,NA,NA,NA
+94,BC22-94,BC22-94,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,40,R. Rampton,Net,2022,6,6,Phacelia linearis,,Lasioglossum,,,F,Hemihalictus,,NA,NA,NA
+95,BC22-95,BC22-95,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Lasioglossum,,,F,Hemihalictus,,NA,NA,NA
+96,BC22-96,BC22-96,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,39,R. Rampton,Net,2022,6,6,Phacelia hastata,,Lasioglossum,,,F,Hemihalictus,,NA,NA,NA
+97,BC22-97,BC22-97,49.33,-117.608,580,Skattebo Reach,"CA, BC",Castlegar,41,R. Rampton,Net,2022,6,8,Physocarpus malvaceus,,Andrena,regularis,,F,,,NA,NA,NA
+98,BC22-98,BC22-98,49.299,-117.618,570,McPhee Rd,"CA, BC",Castlegar,42,R. Rampton,Net,2022,6,8,Prunus virginiana,,,,,,,,NA,NA,NA
+99,BC22-99,BC22-99,49.299,-117.618,570,McPhee Rd,"CA, BC",Castlegar,42,R. Rampton,Net,2022,6,8,Prunus virginiana,,,,,,,,NA,NA,NA
+100,BC22-100,BC22-100,49.06,-117.613,425,Beaver Creek,"CA, BC",Trail,43,R. Rampton,Net,2022,6,9,Rosa nutkana,,Andrena,vicina,,F,,,NA,NA,NA
+101,BC22-101,BC22-101,49.06,-117.613,425,Beaver Creek,"CA, BC",Trail,43,R. Rampton,Net,2022,6,9,Rosa nutkana,,Agapostemon,texanus,,F,,,NA,NA,NA
+102,BC22-102,BC22-102,49.06,-117.613,425,Beaver Creek,"CA, BC",Trail,43,R. Rampton,Net,2022,6,9,Rosa nutkana,,Andrena,trevoris,,F,Geissandrena,,NA,NA,NA
+103,BC22-103,BC22-103,49.06,-117.613,425,Beaver Creek,"CA, BC",Trail,43,R. Rampton,Net,2022,6,9,Rosa nutkana,,Lasioglossum,,,F,Dialictus,,NA,NA,NA
+104,BC22-104,BC22-104,49.06,-117.613,425,Beaver Creek,"CA, BC",Trail,43,R. Rampton,Net,2022,6,9,Rosa nutkana,,Andrena,perplexa,,F,Trachandrena,,NA,NA,NA
+105,BC22-105,BC22-105,49.06,-117.613,425,Beaver Creek,"CA, BC",Trail,44,R. Rampton,Net,2022,6,9,Ceanothus velutinus,,Andrena,angustitarsata,,F,Simandrena,,NA,NA,NA
+106,BC22-106,BC22-106,49.06,-117.613,425,Beaver Creek,"CA, BC",Trail,44,R. Rampton,Net,2022,6,9,Ceanothus velutinus,,Andrena,melanochroa,,F,Micrandrena,,NA,NA,NA
+107,BC22-107,BC22-107,49.06,-117.613,425,Beaver Creek,"CA, BC",Trail,44,R. Rampton,Net,2022,6,9,Ceanothus velutinus,,Colletes,inaequalis,,F,,,NA,NA,NA
+108,BC22-108,BC22-108,49.06,-117.613,425,Beaver Creek,"CA, BC",Trail,44,R. Rampton,Net,2022,6,9,Ceanothus velutinus,,Andrena,angustitarsata,,F,Simandrena,,NA,NA,NA
+109,BC22-109,BC22-109,49.06,-117.613,425,Beaver Creek,"CA, BC",Trail,44,R. Rampton,Net,2022,6,9,Ceanothus velutinus,,Andrena,melanochroa,,F,Micrandrena,,NA,NA,NA
+110,BC22-110,BC22-110,49.06,-117.613,425,Beaver Creek,"CA, BC",Trail,44,R. Rampton,Net,2022,6,9,Ceanothus velutinus,,Andrena,perplexa,,F,,,NA,NA,NA
+111,BC22-111,BC22-111,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,45,R. Rampton,Net,2022,6,10,Phacelia linearis,,Andrena,nigrocaerulea,,F,Euandrena,,NA,NA,NA
+112,BC22-112,BC22-112,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,45,R. Rampton,Net,2022,6,10,Phacelia linearis,,Andrena,nigrocaerulea,,F,Euandrena,,NA,NA,NA
+113,BC22-113,BC22-113,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,45,R. Rampton,Net,2022,6,10,Phacelia linearis,,Osmia,lignaria,,F,Osmia,,NA,NA,NA
+114,BC22-114,BC22-114,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,46,R. Rampton,Net,2022,6,10,Phacelia hastata,,Bombus,rufocinctus,,F,,,NA,NA,NA
+115,BC22-115,BC22-115,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,46,R. Rampton,Net,2022,6,10,Phacelia hastata,,Osmia,lignaria,,F,Osmia,,NA,NA,NA
+116,BC22-116,BC22-116,49.319,-117.649,420,kpitlels,"CA, BC",Castlegar,46,R. Rampton,Net,2022,6,10,Trifolium repens,,Osmia,atriventris,,F,Melanosmia,,NA,NA,NA
+117,BC22-117,BC22-117,49.083,-117.601,860,Antenna Trail,"CA, BC",Montrose,47,R. Rampton,Net,2022,6,17,Phacelia linearis,,Dufourea,trochantera,,M,,,NA,NA,NA
+118,BC22-118,BC22-118,49.083,-117.601,860,Antenna Trail,"CA, BC",Montrose,47,R. Rampton,Net,2022,6,17,Phacelia linearis,,Dufourea,trochantera,,M,,,NA,NA,NA
+119,BC22-119,BC22-119,49.083,-117.601,860,Antenna Trail,"CA, BC",Montrose,47,R. Rampton,Net,2022,6,17,Phacelia linearis,,Dufourea,trochantera,,M,,,NA,NA,NA
+120,BC22-120,BC22-120,49.083,-117.601,860,Antenna Trail,"CA, BC",Montrose,47,R. Rampton,Net,2022,6,17,Phacelia linearis,,Hoplitis,hypocrita,,M,Crytosmia,,NA,NA,NA
+121,BC22-121,BC22-121,49.083,-117.601,860,Antenna Trail,"CA, BC",Montrose,47,R. Rampton,Net,2022,6,17,Phacelia linearis,,Osmia,kincaidii,,F,,,NA,NA,NA
+122,BC22-122,BC22-122,49.083,-117.601,860,Antenna Trail,"CA, BC",Montrose,47,R. Rampton,Net,2022,6,17,Phacelia linearis,,Ceratina,acantha,,M,,,NA,NA,NA
+123,BC22-123,BC22-123,49.083,-117.601,860,Antenna Trail,"CA, BC",Montrose,47,R. Rampton,Net,2022,6,17,Phacelia linearis,,Osmia,cyanella,,F,Melanosmia,,NA,NA,NA
+124,BC22-124,BC22-124,49.083,-117.601,860,Antenna Trail,"CA, BC",Montrose,47,R. Rampton,Net,2022,6,17,Phacelia linearis,,Andrena,nigrocaerulea,,F,Euandrena,,NA,NA,NA
+125,BC22-125,BC22-125,49.083,-117.601,860,Antenna Trail,"CA, BC",Montrose,47,R. Rampton,Net,2022,6,17,Phacelia linearis,,Osmia,kincaidii,,F,,,NA,NA,NA
+126,BC22-126,BC22-126,49.407,-117.599,660,Antenna Trail,"CA, BC",Montrose,48,R. Rampton,Net,2022,6,17,Drymocallis glandulosa,,Andrena,melanochroa,,F,Micrandrena,,NA,NA,NA
+127,BC22-127,BC22-127,49.407,-117.599,660,Antenna Trail,"CA, BC",Montrose,48,R. Rampton,Net,2022,6,17,Drymocallis glandulosa,,Andrena,melanochroa,,F,Micrandrena,,NA,NA,NA
+128,BC22-128,BC22-128,49.407,-117.599,660,Antenna Trail,"CA, BC",Montrose,48,R. Rampton,Net,2022,6,17,Drymocallis glandulosa,,Andrena,angustitarsata,,F,Simandrena,,NA,NA,NA
+129,BC22-129,BC22-129,49.407,-117.599,660,Antenna Trail,"CA, BC",Montrose,48,R. Rampton,Net,2022,6,17,Drymocallis glandulosa,,Andrena,angustitarsata,,F,Simandrena,,NA,NA,NA
+130,BC22-130,BC22-130,49.407,-117.599,660,Antenna Trail,"CA, BC",Montrose,48,R. Rampton,Net,2022,6,17,Microseris nutans,,Andrena,chalybioides,,F,Diandrena,,NA,NA,NA
+131,BC22-131,BC22-131,49.082,-117.605,760,Antenna Trail,"CA, BC",Montrose,49,R. Rampton,Net,2022,6,17,Lepidium campestre,,Andrena,nigrocaerulea,,F,Euandrena,,NA,NA,NA
+132,BC22-132,BC22-132,49.082,-117.605,760,Antenna Trail,"CA, BC",Montrose,49,R. Rampton,Net,2022,6,17,Lepidium campestre,,Andrena,angustitarsata,,F,Simandrena,,NA,NA,NA
+133,BC22-133,BC22-133,49.499,-117.455,1275,Smallwood,"CA, BC",Beasley,50,R. Rampton,Net,2022,6,18,Eriogonum heracleioides,,Lasioglossum,,,F,Hemihalictus,,NA,NA,NA
+134,BC22-134,BC22-134,49.499,-117.455,1275,Smallwood,"CA, BC",Beasley,50,R. Rampton,Net,2022,6,18,Eriogonum heracleioides,,Andrena,hallii,,F,Tylandrena,"doesn't match perfectly, probably an undescribed spp. ",NA,NA,NA
+135,BC22-135,BC22-135,49.499,-117.455,1275,Smallwood,"CA, BC",Beasley,50,R. Rampton,Net,2022,6,18,Eriogonum heracleioides,,Andrena,hallii,,F,Tylandrena,"doesn't match perfectly, probably an undescribed spp. ",NA,NA,NA
+136,BC22-136,BC22-136,49.499,-117.455,1275,Smallwood,"CA, BC",Beasley,50,R. Rampton,Net,2022,6,18,Eriogonum heracleioides,,Lasioglossum,,,F,Hemihalictus,,NA,NA,NA
+137,BC22-137,BC22-137,49.499,-117.455,1275,Smallwood,"CA, BC",Beasley,51,R. Rampton,Net,2022,6,18,Eremogone capillaris,,Andrena,hallii,,F,Tylandrena,"doesn't match perfectly, probably an undescribed spp. ",NA,NA,NA
+138,BC22-138,BC22-138,49.499,-117.455,1275,Smallwood,"CA, BC",Beasley,51,R. Rampton,Net,2022,6,18,Eremogone capillaris,,Andrena,angustitarsata,,F,Simandrena,,NA,NA,NA
+139,BC22-139,BC22-139,49.499,-117.455,1275,Smallwood,"CA, BC",Beasley,51,R. Rampton,Net,2022,6,18,Eremogone capillaris,,Andrena,nigrocaerulea,,F,Euandrena,,NA,NA,NA
+140,BC22-140,BC22-140,49.499,-117.455,1275,Smallwood,"CA, BC",Beasley,51,R. Rampton,Net,2022,6,18,Eremogone capillaris,,Lasioglossum,,,F,Dialictus,,NA,NA,NA
+141,BC22-141,BC22-141,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,52,R. Rampton,Net,2022,6,20,Calochortus apiculatus,,Lasioglossum,,,F,Lasioglossum,,NA,NA,NA
+142,BC22-142,BC22-142,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,52,R. Rampton,Net,2022,6,20,Calochortus apiculatus,,Lasioglossum,,,F,Hemihalictus,,NA,NA,NA
+143,BC22-143,BC22-143,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,53,R. Rampton,Net,2022,6,20,Drymocallis glandulosa,,Andrena,hallii,,F,Tylandrena,"doesn't match perfectly, probably an undescribed spp. ",NA,NA,NA
+144,BC22-144,BC22-144,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,53,R. Rampton,Net,2022,6,20,Drymocallis glandulosa,,Andrena,angustitarsata,,F,Simandrena,,NA,NA,NA
+145,BC22-145,BC22-145,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,53,R. Rampton,Net,2022,6,20,Drymocallis glandulosa,,Panurginus,atriceps,,F,,,NA,NA,NA
+146,BC22-146,BC22-146,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,54,R. Rampton,Net,2022,6,20,Physocarpus malvaceus,,Halictus,,,F,,,NA,NA,NA
+147,BC22-147,BC22-147,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,55,R. Rampton,Net,2022,6,20,Microseris nutans,,Halictus,confusus,,F,,,NA,NA,NA
+148,BC22-148,BC22-148,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,56,R. Rampton,Net,2022,6,20,Rosa nutkana,,Andrena,subaustralis?,,F,,"Maybe subtilis, doesn't seem to match well",NA,NA,NA
+149,BC22-149,BC22-149,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,56,R. Rampton,Net,2022,6,20,Rosa nutkana,,Osmia,juxta,,F,Melanosmia,,NA,NA,NA
+150,BC22-150,BC22-150,49.006,-117.614,480,wksite F,"CA, BC",Waneta,57,R. Rampton,Net,2022,6,20,Phacelia linearis,,Eucera,,,,,,NA,NA,NA
+151,BC22-151,BC22-151,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,58,R. Rampton,Net,2022,6,20,Phacelia hastata,,,,,,,,NA,NA,NA
+152,BC22-152,BC22-152,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,58,R. Rampton,Net,2022,6,20,Phacelia hastata,,Osmia,lignaria,,F,Osmia,,NA,NA,NA
+153,BC22-153,BC22-153,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,58,R. Rampton,Net,2022,6,20,Phacelia hastata,,Osmia,densa,,F,Melanosmia,,NA,NA,NA
+154,BC22-154,BC22-154,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,58,R. Rampton,Net,2022,6,20,Phacelia hastata,,Hoplitis,albifrons,Megachilidae,M,,,NA,NA,NA
+155,BC22-155,BC22-155,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,58,R. Rampton,Net,2022,6,20,Phacelia hastata,,Osmia,densa,,F,Melanosmia,,NA,NA,NA
+156,BC22-156,BC22-156,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,58,R. Rampton,Net,2022,6,20,Phacelia hastata,,Osmia,bruneri,Megachilidae,F,Melanosmia,,NA,NA,NA
+157,BC22-157,BC22-157,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,58,R. Rampton,Net,2022,6,20,Phacelia hastata,,Osmia,densa,,F,Melanosmia,,NA,NA,NA
+158,BC22-158,BC22-158,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,58,R. Rampton,Net,2022,6,20,Phacelia hastata,,Osmia,densa,,F,Melanosmia,,NA,NA,NA
+159,BC22-159,BC22-159,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,58,R. Rampton,Net,2022,6,20,Phacelia hastata,,Hoplitis,albifrons,Megachilidae,M,,,NA,NA,NA
+160,BC22-160,BC22-160,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,58,R. Rampton,Net,2022,6,20,Phacelia hastata,,Osmia,bruneri,Megachilidae,F,Melanosmia,,NA,NA,NA
+161,BC22-161,BC22-161,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,58,R. Rampton,Net,2022,6,20,Phacelia hastata,,Osmia,densa,,F,Melanosmia,,NA,NA,NA
+162,BC22-162,BC22-162,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,59,R. Rampton,Net,2022,6,20,Phacelia linearis,,Osmia,bruneri,Megachilidae,F,Melanosmia,,NA,NA,NA
+163,BC22-163,BC22-163,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,59,R. Rampton,Net,2022,6,20,Phacelia linearis,,Osmia,densa,,F,Melanosmia,,NA,NA,NA
+164,BC22-164,BC22-164,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,59,R. Rampton,Net,2022,6,20,Phacelia linearis,,Lasioglossum,,Halictidae,F,Hemihalictus,,NA,NA,NA
+165,BC22-165,BC22-165,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,59,R. Rampton,Net,2022,6,20,Phacelia linearis,,Osmia,trevoris,,F,Melanosmia,or nanula,NA,NA,NA
+166,BC22-166,BC22-166,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,60,R. Rampton,Net,2022,6,20,Calochortus apiculatus,,,,,,,,NA,NA,NA
+167,BC22-167,BC22-167,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,61,R. Rampton,Net,2022,6,25,Calochortus apiculatus,,Halictus,confusus,,F,,,NA,NA,NA
+168,BC22-168,BC22-168,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,61,R. Rampton,Net,2022,6,25,Calochortus apiculatus,,Halictus,rubicundus,,F,,,NA,NA,NA
+169,BC22-169,BC22-169,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,62,R. Rampton,Net,2022,6,25,Drymocallis glandulosa,,Andrena,melanochroa,,F,,,NA,NA,NA
+170,BC22-170,BC22-170,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,62,R. Rampton,Net,2022,6,25,Drymocallis glandulosa,,,,,,,,NA,NA,NA
+171,BC22-171,BC22-171,49.197,-117.454,830,Beavervale Creek,"CA, BC",Salmo,62,R. Rampton,Net,2022,6,25,Drymocallis glandulosa,,,,,,,,NA,NA,NA
+172,BC22-172,BC22-172,49.319,-117.648,420,kpitlels,"CA, BC",Castlegar,63,R. Rampton,Net,2022,6,25,Symphoricarpos albus,,Dufourea,holocyanea,Halictidae,M,,,NA,NA,NA
+173,BC22-173,BC22-173,49.319,-117.648,420,kpitlels,"CA, BC",Castlegar,63,R. Rampton,Net,2022,6,25,NA,,Dufourea,holocyanea,Halictidae,M,,"Caught off ground, searching",NA,NA,NA
+174,BC22-174,BC22-174,49.318,-117.648,420,kpitlels,"CA, BC",Castlegar,63,R. Rampton,Net,2022,6,25,NA,,Dufourea,holocyanea,Halictidae,M,,"Caught off ground, searching",NA,NA,NA
+175,BC22-175,BC22-175,49.316,-117.648,420,kpitlels,"CA, BC",Castlegar,63,R. Rampton,Net,2022,6,25,NA,,Dufourea,holocyanea,Halictidae,M,,"Caught off ground, searching",NA,NA,NA
+176,BC22-176,BC22-176,49.32,-117.647,420,kpitlels,"CA, BC",Castlegar,64,R. Rampton,Net,2022,6,25,Berteroa incana,,Neopasites,fulviventris,Apidae,F,,,NA,NA,NA
+177,BC22-177,BC22-177,49.32,-117.647,420,kpitlels,"CA, BC",Castlegar,64,R. Rampton,Net,2022,6,25,Berteroa incana,,Andrena,angustitarsata,Andrenidae,F,,,NA,NA,NA
+178,BC22-178,BC22-178,49.32,-117.647,420,kpitlels,"CA, BC",Castlegar,64,R. Rampton,Net,2022,6,25,Berteroa incana,,Andrena,fuscicauda,Andrenidae,F,,,NA,NA,NA
+179,BC22-179,BC22-179,49.006,-117.612,500,wksite F,"CA, BC",Waneta,65,R. Rampton,Net,2022,6,30,Eriogonum heracleioides,,,,,,,,NA,NA,NA
+180,BC22-180,BC22-180,49.006,-117.612,500,wksite F,"CA, BC",Waneta,65,R. Rampton,Net,2022,6,30,Eriogonum heracleioides,,,,,,,,NA,NA,NA
+181,BC22-181,BC22-181,49.048,-117.442,600,PDO old fire,"CA, BC",Pend Oreille,66,R. Rampton,Net,2022,6,30,Potentilla recta,,,,,,,,NA,NA,NA
+182,BC22-182,BC22-182,49.009,-117.819,1050,KGIV,"CA, BC",Paterson,67,R. Rampton,Net,2022,6,30,NA,,Large dark hoplitis maybe - check img 9864,,,,,,NA,NA,NA
+183,BC22-183,BC22-183,49.009,-117.819,1050,KGIV,"CA, BC",Paterson,68,R. Rampton,Net,2022,6,30,Microseris nutans,,,,,,,,NA,NA,NA
+184,BC22-184,BC22-184,49.009,-117.819,1050,KGIV,"CA, BC",Paterson,68,R. Rampton,Net,2022,6,30,Microseris nutans,,Andrena,chalybioides,Andrenidae,F,Diandrena,,NA,NA,NA
+185,BC22-185,BC22-185,49.009,-117.819,1050,KGIV,"CA, BC",Paterson,68,R. Rampton,Net,2022,6,30,Microseris nutans,,,,,,,,NA,NA,NA
+186,BC22-186,BC22-186,49.009,-117.819,1050,KGIV,"CA, BC",Paterson,68,R. Rampton,Net,2022,6,30,Drymocallis glandulosa,,Andrena,melanochroa,Andrenidae,F,Micrandrena,,NA,NA,NA
+187,BC22-187,BC22-187,49.009,-117.819,1050,KGIV,"CA, BC",Paterson,79,R. Rampton,Net,2022,6,30,Calochortus apiculatus,,Osmia,,Megachilidae,M,Melanosmia,,NA,NA,NA
+188,BC22-188,BC22-188,49.009,-117.819,1050,KGIV,"CA, BC",Paterson,70,R. Rampton,Net,2022,6,30,Calochortus apiculatus,,Lasioglossum,,Halictidae,F,Hemihalictus,,NA,NA,NA
+189,BC22-189,BC22-189,49.009,-117.819,1050,KGIV,"CA, BC",Paterson,70,R. Rampton,Net,2022,6,30,Calochortus apiculatus,,Osmia,trevoris,Megachilidae,F,,,NA,NA,NA
+190,BC22-190,BC22-190,49.009,-117.819,1050,KGIV,"CA, BC",Paterson,70,R. Rampton,Net,2022,6,30,Calochortus apiculatus,,Osmia,,Megachilidae,M,Melanosmia,,NA,NA,NA
+191,BC22-191,BC22-191,49.009,-117.819,1050,KGIV,"CA, BC",Paterson,70,R. Rampton,Net,2022,6,30,Calochortus apiculatus,,Sphecodes,,Halictidae,F,,,NA,NA,NA
+192,BC22-192,BC22-192,49.009,-117.819,1050,KGIV,"CA, BC",Paterson,70,R. Rampton,Net,2022,6,30,Calochortus apiculatus,,Lasioglossum,,Halictidae,F,Dialictus,,NA,NA,NA
+193,BC22-193,BC22-193,49.009,-117.819,1050,KGIV,"CA, BC",Paterson,70,R. Rampton,Net,2022,6,30,Calochortus apiculatus,,Osmia,bruneri,Megachilidae,F,,,NA,NA,NA
+194,BC22-194,BC22-194,49.009,-117.819,1050,KGIV,"CA, BC",Paterson,70,R. Rampton,Net,2022,6,30,Calochortus apiculatus,,,,,,,,NA,NA,NA
+195,BC22-195,BC22-195,49.05,-117.471,700,Charbonneau,"CA, BC",Pend Oreille,71,R. Rampton,Net,2022,6,30,Apocynum androsaemifolium,,Anthophora,bomboides,Apidae,M,,,NA,NA,NA
+196,BC22-196,BC22-196,49.051,-117.473,740,Charbonneau,"CA, BC",Pend Oreille,72,R. Rampton,Net,2022,7,1,Gaillardia aristata,,,,,,,,NA,NA,NA
+197,BC22-197,BC22-197,49.051,-117.473,740,Charbonneau,"CA, BC",Pend Oreille,72,R. Rampton,Net,2022,7,1,Gaillardia aristata,,,,,,,,NA,NA,NA
+198,BC22-198,BC22-198,49.051,-117.473,860,Charbonneau,"CA, BC",Pend Oreille,73,R. Rampton,Net,2022,7,1,NA,,Megachile,melanophea,Megachilidae,M,,,NA,NA,NA
+199,BC22-199,BC22-199,49.051,-117.473,860,Charbonneau,"CA, BC",Pend Oreille,74,R. Rampton,Net,2022,7,1,Crepis barbilabris,,Osmia,coloradensis,Megachilidae,F,,,NA,NA,NA
+200,BC22-200,BC22-200,49.051,-117.473,860,Charbonneau,"CA, BC",Pend Oreille,74,R. Rampton,Net,2022,7,1,Crepis barbilabris,,Halictus,,Halictidae,F,,,NA,NA,NA
+201,BC22-201,BC22-201,49.051,-117.473,860,Charbonneau,"CA, BC",Pend Oreille,74,R. Rampton,Net,2022,7,1,Crepis barbilabris,,Andrena,nigrocaerulea,Andrenidae,F,,,NA,NA,NA
+202,BC22-202,BC22-202,49.051,-117.472,800,Charbonneau,"CA, BC",Pend Oreille,75,R. Rampton,Net,2022,7,1,Cirsium undulatum,,Osmia,subaustralis,Megachilidae,M,Cephalosmia,,NA,NA,NA
+203,BC22-203,BC22-203,49.05,-117.471,700,Charbonneau,"CA, BC",Pend Oreille,76,R. Rampton,Net,2022,7,1,Phacelia linearis,,Osmia,subaustralis,Megachilidae,F,Cephalosmia,,NA,NA,NA
+204,BC22-204,BC22-204,49.05,-117.471,700,Charbonneau,"CA, BC",Pend Oreille,76,R. Rampton,Net,2022,7,1,Phacelia linearis,,,,,,,,NA,NA,NA
+205,BC22-205,BC22-205,49.05,-117.471,700,Charbonneau,"CA, BC",Pend Oreille,76,R. Rampton,Net,2022,7,1,Phacelia linearis,,,,,,,,NA,NA,NA
+206,BC22-206,BC22-206,49.05,-117.471,700,Charbonneau,"CA, BC",Pend Oreille,76,R. Rampton,Net,2022,7,1,Phacelia linearis,,,,,,,,NA,NA,NA
+207,BC22-207,BC22-207,49.319,-117.648,420,kpitlels,"CA, BC",Castlegar,77,R. Rampton,Net,2022,7,2,Symphoricarpos albus,,,,,,,,NA,NA,NA
+208,BC22-208,BC22-208,49.3,-117.777,1050,Lloyds Meadow,"CA, BC",Castlegar,78,R. Rampton,Net,2022,7,8,Achillea millefolium,,,,,,,,NA,NA,NA
+209,BC22-209,BC22-209,49.3,-117.777,1050,Lloyds Meadow,"CA, BC",Castlegar,79,R. Rampton,Net,2022,7,8,Drymocallis glandulosa,,Panurginus,atriceps,Andrenidae,M,,,NA,NA,NA
+210,BC22-210,BC22-210,49.442,-117.547,485,Crescent Valley,"CA, BC",Crescent Valley,80,R. Rampton,Net,2022,7,8,Potentilla recta,,Andrena,salicifloris,Andrenidae,F,Trachandrena,,NA,NA,NA
+211,BC22-211,BC22-211,49.317,-117.648,425,kpitlels,"CA, BC",Castlegar,22181,R. Rampton,Net,2022,7,2,Leucanthemum vulgare,,,,,,,bycatch from sample,NA,NA,NA
+212,BC22-212,BC22-212,49.317,-117.648,425,kpitlels,"CA, BC",Castlegar,22181,R. Rampton,Net,2022,7,2,Leucanthemum vulgare,,,,,,,bycatch from sample,NA,NA,NA
+213,BC22-213,BC22-213,49.407,-117.663,660,Adrian Meadow,"CA, BC",Pass Creek,81,R. Rampton,Net,2022,7,7,NA,,,,,,,,NA,NA,NA
+214,BC22-214,BC22-214,49.464,-117.17,1700,Hummingbird Pass,"CA, BC",Nelson,82,R. Rampton,Net,2022,7,11,Ranunculus escholtzii,,,,,,,,NA,NA,NA
+215,BC22-215,BC22-215,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,83,R. Rampton,Net,2022,7,10,Holodiscus discolor,,,,,,,,NA,NA,NA
+216,BC22-216,BC22-216,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,83,R. Rampton,Net,2022,7,10,Holodiscus discolor,,,,,,,,NA,NA,NA
+217,BC22-217,BC22-217,49.505,-117.356,740,Marsden Slides,"CA, BC",Taghum,83,R. Rampton,Net,2022,7,10,Holodiscus discolor,,Ceratina,acantha,,F,,,NA,NA,NA
+218,BC22-218,BC22-218,49.506,-117.358,640,Marsden Slides,"CA, BC",Taghum,84,R. Rampton,Net,2022,7,10,Chaemanaerion angustifolium,,Ceolixys,porterae,,M,,,NA,NA,NA
+219,BC22-219,BC22-219,49.506,-117.358,640,Marsden Slides,"CA, BC",Taghum,85,R. Rampton,Net,2022,7,10,Apocynum androsaemifolium,,Megachile,gemula,,M,,,NA,NA,NA
+220,BC22-220,BC22-220,49.333,-117.614,480,Secret Meadow,"CA, BC",Castlegar,86,R. Rampton,Net,2022,7,10,Holodiscus discolor,,,,,,,,NA,NA,NA
+221,BC22-221,BC22-221,49.457,-117.169,1600,Hummingbird Pass,"CA, BC",Nelson,87,R. Rampton,Net,2022,7,11,Fragaria vesca,,,,,,,,NA,NA,NA
+222,BC22-222,BC22-222,49.457,-117.169,1600,Hummingbird Pass,"CA, BC",Nelson,87,R. Rampton,Net,2022,7,11,Fragaria vesca,,,,,,,,NA,NA,NA
+223,BC22-223,BC22-223,49.464,-117.17,1700,Hummingbird Pass,"CA, BC",Nelson,88,R. Rampton,Net,2022,7,11,NA,,Osmia,,,M,,,NA,NA,NA
+224,BC22-224,BC22-224,49.464,-117.17,1700,Hummingbird Pass,"CA, BC",Nelson,89,R. Rampton,Net,2022,7,11,Claytonia lanceolata,,wasp,,,,,,NA,NA,NA
+225,BC22-225,BC22-225,49.464,-117.17,1700,Hummingbird Pass,"CA, BC",Nelson,90,R. Rampton,Net,2022,7,11,Viola glabella,,Osmia,,,,,,NA,NA,NA
+226,BC22-226,BC22-226,49.464,-117.17,1700,Hummingbird Pass,"CA, BC",Nelson,91,R. Rampton,Net,2022,7,11,,,,,,,,Nest aggregation,NA,NA,NA
+227,BC22-227,BC22-227,49.464,-117.17,1700,Hummingbird Pass,"CA, BC",Nelson,91,R. Rampton,Net,2022,7,11,,,,,,,,Nest aggregation,NA,NA,NA
+228,BC22-228,BC22-228,49.464,-117.17,1700,Hummingbird Pass,"CA, BC",Nelson,92,R. Rampton,Net,2022,7,11,Claytonia cordifolia,,,,,,,,NA,NA,NA
+229,BC22-229,BC22-229,49.503,-117.371,610,Marsden,"CA, BC",Taghum,93,R. Rampton,Net,2022,7,11,Symphoricarpos albus,,,,,,,,NA,NA,NA
+230,BC22-230,BC22-230,49.503,-117.371,610,Marsden,"CA, BC",Taghum,94,R. Rampton,Net,2022,7,11,Holodiscus discolor,,Andrena,crataegi,Andrenidae,F,Plastandrena,,NA,NA,NA
+231,BC22-231,BC22-231,49.503,-117.371,610,Marsden,"CA, BC",Taghum,94,R. Rampton,Net,2022,7,11,Holodiscus discolor,,,,,,,,NA,NA,NA
+232,BC22-232,BC22-232,49.503,-117.371,610,Marsden,"CA, BC",Taghum,94,R. Rampton,Net,2022,7,11,Holodiscus discolor,,,,,,,,NA,NA,NA
+233,BC22-233,BC22-233,49.503,-117.371,610,Marsden,"CA, BC",Taghum,94,R. Rampton,Net,2022,7,11,Holodiscus discolor,,,,,,,,NA,NA,NA
+234,BC22-234,BC22-234,49.503,-117.371,610,Marsden,"CA, BC",Taghum,94,R. Rampton,Net,2022,7,11,Holodiscus discolor,,,,,,,,NA,NA,NA
+235,BC22-235,BC22-235,49.462,-117.639,1500,Goose Crk FSR,"CA, BC",Pass Creek,95,R. Rampton,Net,2022,7,14,Campanula rotundifolia,,,,,,,,NA,NA,NA
+236,BC22-236,BC22-236,49.448,-117.65,1400,Goose Crk FSR,"CA, BC",Pass Creek,95,R. Rampton,Net,2022,7,15,Penstemon fruticosus,,,,,,,,NA,NA,NA
+237,BC22-237,BC22-237,49.448,-117.65,1400,Goose Crk FSR,"CA, BC",Pass Creek,95,R. Rampton,Net,2022,7,15,Penstemon fruticosus,,,,,,,,NA,NA,NA
+238,BC22-238,BC22-238,49.462,-117.641,1580,Goose Crk FSR,"CA, BC",Pass Creek,95,R. Rampton,Net,2022,7,15,Penstemon ellipticus,,,,,,,,NA,NA,NA
+239,BC22-239,BC22-239,49.462,-117.641,1580,Goose Crk FSR,"CA, BC",Pass Creek,95,R. Rampton,Net,2022,7,15,Penstemon ellipticus,,,,,,,,NA,NA,NA
+240,BC22-240,BC22-240,49.462,-117.641,1580,Goose Crk FSR,"CA, BC",Pass Creek,95,R. Rampton,Net,2022,7,15,Penstemon ellipticus,,,,,,,,NA,NA,NA
+241,BC22-241,BC22-241,49.462,-117.641,1580,Goose Crk FSR,"CA, BC",Pass Creek,95,R. Rampton,Net,2022,7,15,Penstemon ellipticus,,,,,,,,NA,NA,NA
+242,BC22-242,BC22-242,49.462,-117.641,1580,Goose Crk FSR,"CA, BC",Pass Creek,95,R. Rampton,Net,2022,7,15,Penstemon ellipticus,,,,,,,,NA,NA,NA
+243,BC22-243,BC22-243,49.462,-117.641,1580,Goose Crk FSR,"CA, BC",Pass Creek,95,R. Rampton,Net,2022,7,15,Penstemon ellipticus,,,,,,,,NA,NA,NA
+244,BC22-244,BC22-244,49.0615,-117.613,420,Beaver Creek Prov. Park,"CA, BC",Trail,96,R. Rampton,Net,2022,7,19,NA,,,,,,,,,,
+245,BC22-245,BC22-245,,,,,,,,,,,,,,,,,,,,,,,
+246,BC22-246,BC22-246,,,,,,,,,,,,,,,,,,,,,,,
+247,BC22-247,BC22-247,,,,,,,,,,,,,,,,,,,,,,,
+248,BC22-248,BC22-248,,,,,,,,,,,,,,,,,,,,,,,
+249,BC22-249,BC22-249,,,,,,,,,,,,,,,,,,,,,,,
+250,BC22-250,BC22-250,,,,,,,,,,,,,,,,,,,,,,,
+251,BC22-251,BC22-251,,,,,,,,,,,,,,,,,,,,,,,
+252,BC22-252,BC22-252,,,,,,,,,,,,,,,,,,,,,,,
+253,BC22-253,BC22-253,,,,,,,,,,,,,,,,,,,,,,,
+254,BC22-254,BC22-254,,,,,,,,,,,,,,,,,,,,,,,
+255,BC22-255,BC22-255,,,,,,,,,,,,,,,,,,,,,,,
+256,BC22-256,BC22-256,,,,,,,,,,,,,,,,,,,,,,,
+257,BC22-257,BC22-257,,,,,,,,,,,,,,,,,,,,,,,
+258,BC22-258,BC22-258,,,,,,,,,,,,,,,,,,,,,,,
+259,BC22-259,BC22-259,,,,,,,,,,,,,,,,,,,,,,,
+260,BC22-260,BC22-260,,,,,,,,,,,,,,,,,,,,,,,
+261,BC22-261,BC22-261,,,,,,,,,,,,,,,,,,,,,,,
+262,BC22-262,BC22-262,,,,,,,,,,,,,,,,,,,,,,,
+263,BC22-263,BC22-263,,,,,,,,,,,,,,,,,,,,,,,
+264,BC22-264,BC22-264,,,,,,,,,,,,,,,,,,,,,,,
+265,BC22-265,BC22-265,,,,,,,,,,,,,,,,,,,,,,,
+266,BC22-266,BC22-266,,,,,,,,,,,,,,,,,,,,,,,
+267,BC22-267,BC22-267,,,,,,,,,,,,,,,,,,,,,,,
+268,BC22-268,BC22-268,,,,,,,,,,,,,,,,,,,,,,,
+269,BC22-269,BC22-269,,,,,,,,,,,,,,,,,,,,,,,
+270,BC22-270,BC22-270,,,,,,,,,,,,,,,,,,,,,,,
+271,BC22-271,BC22-271,,,,,,,,,,,,,,,,,,,,,,,
+272,BC22-272,BC22-272,,,,,,,,,,,,,,,,,,,,,,,
+273,BC22-273,BC22-273,,,,,,,,,,,,,,,,,,,,,,,
+274,BC22-274,BC22-274,,,,,,,,,,,,,,,,,,,,,,,
+275,BC22-275,BC22-275,,,,,,,,,,,,,,,,,,,,,,,
+276,BC22-276,BC22-276,,,,,,,,,,,,,,,,,,,,,,,
+277,BC22-277,BC22-277,,,,,,,,,,,,,,,,,,,,,,,
+278,BC22-278,BC22-278,,,,,,,,,,,,,,,,,,,,,,,
+279,BC22-279,BC22-279,,,,,,,,,,,,,,,,,,,,,,,
+280,BC22-280,BC22-280,,,,,,,,,,,,,,,,,,,,,,,
+281,BC22-281,BC22-281,,,,,,,,,,,,,,,,,,,,,,,
+282,BC22-282,BC22-282,,,,,,,,,,,,,,,,,,,,,,,
+283,BC22-283,BC22-283,,,,,,,,,,,,,,,,,,,,,,,
+284,BC22-284,BC22-284,,,,,,,,,,,,,,,,,,,,,,,
+285,BC22-285,BC22-285,,,,,,,,,,,,,,,,,,,,,,,
+286,BC22-286,BC22-286,,,,,,,,,,,,,,,,,,,,,,,
+287,BC22-287,BC22-287,,,,,,,,,,,,,,,,,,,,,,,
+288,BC22-288,BC22-288,,,,,,,,,,,,,,,,,,,,,,,
+289,BC22-289,BC22-289,,,,,,,,,,,,,,,,,,,,,,,
+290,BC22-290,BC22-290,,,,,,,,,,,,,,,,,,,,,,,
+291,BC22-291,BC22-291,,,,,,,,,,,,,,,,,,,,,,,
+292,BC22-292,BC22-292,,,,,,,,,,,,,,,,,,,,,,,
+293,BC22-293,BC22-293,,,,,,,,,,,,,,,,,,,,,,,
+294,BC22-294,BC22-294,,,,,,,,,,,,,,,,,,,,,,,
+295,BC22-295,BC22-295,,,,,,,,,,,,,,,,,,,,,,,
+296,BC22-296,BC22-296,,,,,,,,,,,,,,,,,,,,,,,
+297,BC22-297,BC22-297,,,,,,,,,,,,,,,,,,,,,,,
+298,BC22-298,BC22-298,,,,,,,,,,,,,,,,,,,,,,,
+299,BC22-299,BC22-299,,,,,,,,,,,,,,,,,,,,,,,
+300,BC22-300,BC22-300,,,,,,,,,,,,,,,,,,,,,,,
+301,BC22-301,BC22-301,,,,,,,,,,,,,,,,,,,,,,,
+302,BC22-302,BC22-302,,,,,,,,,,,,,,,,,,,,,,,
+303,BC22-303,BC22-303,,,,,,,,,,,,,,,,,,,,,,,
+304,BC22-304,BC22-304,,,,,,,,,,,,,,,,,,,,,,,
+305,BC22-305,BC22-305,,,,,,,,,,,,,,,,,,,,,,,
+306,BC22-306,BC22-306,,,,,,,,,,,,,,,,,,,,,,,
+307,BC22-307,BC22-307,,,,,,,,,,,,,,,,,,,,,,,
+308,BC22-308,BC22-308,,,,,,,,,,,,,,,,,,,,,,,
+309,BC22-309,BC22-309,,,,,,,,,,,,,,,,,,,,,,,
+310,BC22-310,BC22-310,,,,,,,,,,,,,,,,,,,,,,,
+311,BC22-311,BC22-311,,,,,,,,,,,,,,,,,,,,,,,
+312,BC22-312,BC22-312,,,,,,,,,,,,,,,,,,,,,,,
+313,BC22-313,BC22-313,,,,,,,,,,,,,,,,,,,,,,,
